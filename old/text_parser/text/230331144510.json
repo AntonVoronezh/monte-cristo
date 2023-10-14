@@ -1,0 +1,15 @@
+{
+    "title": "Engineered E. coli delivers therapeutic nanobodies to the gut",
+    "summary": "Researchers have succeeded in developing an E. coli-based 'smart microbe' that secretes therapeutic payloads, including antibodies, into the gut. The genetically modified beneficial strain of bacteria blocks intestinal inflammation in a preclinical model of inflammatory bowel disease and has the potential to treat intestinal-based diseases.\n",
+    "first": "Humans are colonized with thousands of bacterial strains. Researchers are now focused on genetically modifying such bacteria to enhance their intrinsic therapeutic properties.",
+    "text": [
+        "One goal is to develop smart microbes that release therapeutic payloads at sites of disease, thus maintaining therapeutic efficacy while limiting many of the side effects that can be associated with the systemic administration of conventional drugs.",
+        "Lesser's lab at MGH has been studying these complex protein secretion systems for more than two decades with the ultimate goal of reengineering them as drug delivery systems.",
+        "PROT3EcT that was engineered to secrete nanobodies that bind to and inhibit tumor necrosis factor (TNF) alpha, a pro-inflammatory cytokine, was as effective in blocking the development of inflammation in the intestines of mice as an injected monoclonal antibody that targets the same cytokine.",
+        "Monoclonal antibodies that neutralize TNF alpha result in general suppression of the immune system, which can have unintended effects.",
+        "\"Patients administered these drugs systemically are at risk for developing life-threatening infections as well as lymphoma,\" says Lesser. \"By using engineered bacteria, it should be possible to deliver these anti-inflammatory antibodies and limit immunosuppression directly to where inflammation is present.\"",
+        "Lesser and her colleagues are now working on engineering bacterial strains that will secrete therapeutic proteins in response to specific conditions, such as when inflammation begins developing in the gut.",
+        "Co-authors include Jason P. Lynch, Coral Gonzalez-Prieto, Analise Z. Reeves, John M. Leong, Charles B. Shoemaker, and Wendy S. Garrett.",
+        "This study was supported by the National Institutions of Health, the Kenneth Rainin Foundation, the Crohn's & Colitis Foundation, and a Brit d'Arbeloff research scholar award."
+    ]
+}

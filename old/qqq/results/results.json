@@ -1,0 +1,67 @@
+{
+    "chanel_id": "-1001802264924",
+    "chanel_name": "a1b1c1",
+    "username": "nfxjdnfxlhxfithjpij",
+    "messages": [
+        {
+            "id": 222,
+            "messages_type": "photo_from_file"
+        },
+        {
+            "id": 223,
+            "messages_type": "photo_group_from_file"
+        },
+        {
+            "id": 224,
+            "messages_type": "audio_from_file"
+        },
+        {
+            "id": 225,
+            "messages_type": "document_from_file"
+        },
+        {
+            "id": 226,
+            "messages_type": "poll"
+        },
+        {
+            "id": 227,
+            "messages_type": "quiz"
+        },
+        {
+            "id": 233,
+            "messages_type": "text"
+        },
+        {
+            "id": 234,
+            "messages_type": "photo_from_file"
+        },
+        {
+            "id": 235,
+            "messages_type": "photo_group_from_file"
+        },
+        {
+            "id": 236,
+            "messages_type": "audio_from_file"
+        },
+        {
+            "id": 237,
+            "messages_type": "document_from_file"
+        },
+        {
+            "id": 238,
+            "messages_type": "poll"
+        },
+        {
+            "id": 239,
+            "messages_type": "quiz"
+        },
+        {
+            "id": 240,
+            "messages_type": "text"
+        },
+        {
+            "id": 242,
+            "messages_type": "photo_from_file"
+        }
+    ]
+}
