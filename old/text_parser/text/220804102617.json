@@ -1,9 +1,0 @@
-{
-    "title": "Scientists engineer probiotic to prevent infection of large intestine",
-    "summary": "Scientists have created a probiotic to restore bile salt metabolism found in the gastrointestinal tract, to counter the onset and effects of Clostridium Difficile Infection (CDI).\n",
-    "first": "Scientists from the Yong Loo Lin School of Medicine, National University of Singapore (NUS Medicine) have created a probiotic to restore bile salt metabolism, found in the gastrointestinal tract, to counter the onset and effects of Clostridium Difficile Infection (CDI).",
-    "text": [
-        "The administration of antibiotics in the treatment of CDI causes an imbalanced gut microbiome, known as dysbiosis, which can disrupt other microbiome processes such as bile salt metabolism. The dysregulation of bile salt metabolism can activate dormant Clostridioides difficile spores, leading to CDI, causing severe diarrhea and colitis -- inflammation of the large intestine, or a reinfection of CDI.",
-        "A team of researchers, led by Associate Professor Matthew Chang, from the Synthetic Biology Translational Research Programme at NUS Medicine and NUS Synthetic Biology for Clinical and Technological Innovation (SynCTI), engineered a probiotic that can detect the occurrence of antibiotic-induced microbiome imbalance and express an enzyme that can regulate the bile salt metabolism upon detection. This probiotic contains a genetic circuit that comprises a genetically encoded sensor, amplifier and actuator."
-    ]
-}
