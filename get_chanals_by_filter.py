@@ -66,7 +66,7 @@ for link in links_arr:
 
     time.sleep(1)
 
-with open('chanal_arr.txt', 'w') as f:
+with open('../get_chanal_data/chanal_arr.txt', 'w') as f:
     for line in chanal_arr:
         f.write(f"{line}\n")
 # 0 /@teacher_korea
